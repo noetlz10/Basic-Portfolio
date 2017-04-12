@@ -128,6 +128,8 @@ h4 {
     border-style: solid;
     border-color: #dddddd;
     margin-bottom: 100px;
+    position: absolute;
+    left:186px;
 }
 
 
@@ -269,6 +271,8 @@ input[type=submit]:hover {
     border-style: solid;
     border-color: #dddddd;
     display: inline;
+    position: absolute;
+    right: 195px;
 }
 
 .social-tab hr {
@@ -332,3 +336,5 @@ input[type=submit]:hover {
     width: 100%;
     clear: both;
 }
+
+
