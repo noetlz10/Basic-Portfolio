@@ -133,7 +133,7 @@ h4 {
 }
 
 
-.main-content-title {
+.main-content-title {   
     padding: 5px 5px 0px 0px;
     margin-bottom: 10px;
     clear: both;
@@ -337,4 +337,20 @@ input[type=submit]:hover {
     clear: both;
 }
 
+#sticky {
+    background-color: #666666;
+    color: white;
+    text-align: center;
+    font-size: 12px;
+    margin: 0px;
+    border-top: 5px;
+    border-style: solid;
+    border-color: #4aaaa5;
+    line-height: 60px;
+    position: fixed;
+    bottom: 0px;
+    width: 100%;
+    clear: both;
+
+}
 
